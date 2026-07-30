@@ -18,7 +18,7 @@ This script lets the user:
 ## How to run
 
 ```bash
-python program/func.py
+python inventory.py
 ```
 
 ## Example
