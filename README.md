@@ -1,8 +1,6 @@
 # Func.py Project
 
-![Python Banner](banner.png)
-
-This README is for the inventory program in [program/func.py](program/func.py).
+![Python Banner](banner.svg)
 
 ## What the program does
 
