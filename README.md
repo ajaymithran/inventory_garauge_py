@@ -1,4 +1,4 @@
-# Func.py Project
+# inventory.py Project
 
 ![Python Banner](banner.svg)
 
